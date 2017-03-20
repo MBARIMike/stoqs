@@ -57,5 +57,5 @@ simplejson==3.10.0
 six==1.10.0
 slacker==0.9.42
 Sphinx==1.5.2
-sphinx-rtd-theme==0.1.9
+sphinx-rtd-theme==0.2.4
 sqlparse==0.2.2
