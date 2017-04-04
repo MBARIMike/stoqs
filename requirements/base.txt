@@ -39,7 +39,7 @@ ordereddict==1.1
 Paste==2.0.3
 PasteDeploy==1.5.2
 PasteScript==2.0.2
-Pillow==4.0.0
+Pillow==4.1.0
 psycopg2==2.6.2
 pupynere==1.0.15
 Pydap==3.2.1
