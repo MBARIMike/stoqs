@@ -19,7 +19,7 @@ Genshi==0.7
 h5py==2.6.0
 ipython==5.2.2
 jupyter==1.0.0
-MarkupSafe==0.23
+MarkupSafe==1.0
 netCDF4==1.2.7
 numpy==1.12.0
 pandas==0.19.2
