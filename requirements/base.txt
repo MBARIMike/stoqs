@@ -53,7 +53,7 @@ readline==6.2.4.1
 requests-oauthlib==0.8.0
 seawater==3.3.4
 selenium==3.0.2
-simplejson==3.10.0
+simplejson==3.11.1
 six==1.10.0
 slacker==0.9.42
 Sphinx==1.5.2
