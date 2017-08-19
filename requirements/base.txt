@@ -55,7 +55,7 @@ seawater==3.3.4
 selenium==3.0.2
 simplejson==3.10.0
 six==1.10.0
-slacker==0.9.42
+slacker==0.9.50
 Sphinx==1.5.2
 sphinx-rtd-theme==0.1.9
 sqlparse==0.2.2
