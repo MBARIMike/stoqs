@@ -19,7 +19,7 @@ django-environ==0.4.1
 django-extensions==1.7.6
 django-floppyforms==1.7.0
 django-model-utils==2.6.1
-django-picklefield==0.3.2
+django-picklefield==1.0.0
 django-secure==1.0.1
 djangorestframework==3.5.4
 euclid==0.1
