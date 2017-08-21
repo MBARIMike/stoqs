@@ -11,7 +11,7 @@ binaryornot==0.4.0
 certifi==2017.1.23
 cookiecutter==1.5.1
 coverage==4.3.2
-Cython==0.25.2
+Cython==0.26
 docutils==0.13.1
 ephem==3.7.6.0
 GDAL==2.1.3
