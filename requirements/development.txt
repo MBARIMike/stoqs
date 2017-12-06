@@ -14,7 +14,7 @@ coverage==4.4.2
 Cython==0.27.3
 docutils==0.14
 ephem==3.7.6.0
-GDAL==2.2.2
+GDAL==2.2.3
 Genshi==0.7
 h5py==2.7.1
 ipython==5.5.0
