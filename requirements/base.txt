@@ -23,7 +23,7 @@ django-picklefield==1.0.0
 django-secure==1.0.1
 djangorestframework==3.7.3
 euclid==0.1
-GitPython==2.1.7
+GitPython==2.1.8
 httplib2==0.10.3
 importlib==1.0.4
 jdcal==1.3
