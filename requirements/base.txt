@@ -44,7 +44,7 @@ psycopg2==2.7.3.2
 pupynere==1.0.15
 Pydap==3.2.2
 python-dateutil==2.6.1
-python-memcached==1.58
+python-memcached==1.59
 python-openid==2.2.5
 pytz==2017.3
 PyYAML==3.12
