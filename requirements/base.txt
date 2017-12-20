@@ -8,7 +8,7 @@ Django==1.8.18
 django-allauth==0.34.0
 django-appconf==1.0.2
 django-autoslug==1.9.3
-django-avatar==4.0.1
+django-avatar==4.1.0
 django-braces==1.11.0
 django-cache-url==2.0.0
 django-celery==3.2.1
