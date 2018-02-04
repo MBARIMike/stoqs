@@ -10,7 +10,7 @@ billiard==3.5.0.3
 binaryornot==0.4.4
 certifi==2017.11.5
 cookiecutter==1.6.0
-coverage==4.4.2
+coverage==4.5
 Cython==0.27.3
 docutils==0.14
 ephem==3.7.6.0
