@@ -55,7 +55,7 @@ python3-memcached==1.51
 python-openid==2.2.5
 pytz==2024.1
 pyzmq==25.1.2
-scikit-learn==1.4.1.post1
+scikit-learn==1.4.2
 seawater==3.3.4
 selenium==4.19.0
 simplejson==3.19.2
