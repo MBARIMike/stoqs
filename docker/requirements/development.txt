@@ -5,7 +5,7 @@ amqp==5.2.0
 amqplib==1.0.2
 Babel==2.15.0
 backports.ssl-match-hostname==3.7.0.1
-billiard==4.2.0
+billiard==4.2.1
 binaryornot==0.4.4
 docutils==0.21.2
 Cython==3.0.10
