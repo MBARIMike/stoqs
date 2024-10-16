@@ -46,7 +46,7 @@ pyarrow==16.0.0
 # If you get 'failed to build pymssql' on Mac M2 make sure you're building with: docker-compose -f docker-compose-arm.yml ...
 pymssql==2.3.0
 pysher==1.0.8
-psycopg2-binary==2.9.9
+psycopg2-binary==2.9.10
 psutil==5.9.7
 pupynere==1.0.15
 Pydap==3.4.1
