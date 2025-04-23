@@ -1,6 +1,6 @@
 -r base.txt
 
-alabaster==0.7.16
+alabaster==1.0.0
 amqp==5.2.0
 amqplib==1.0.2
 Babel==2.15.0
