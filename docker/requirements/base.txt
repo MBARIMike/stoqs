@@ -47,7 +47,7 @@ pyarrow==16.0.0
 pymssql==2.3.0
 pysher==1.0.8
 psycopg2-binary==2.9.9
-psutil==5.9.7
+psutil==7.1.1
 pupynere==1.0.15
 Pydap==3.4.1
 python-dateutil==2.9.0.post0
