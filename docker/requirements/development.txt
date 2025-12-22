@@ -18,7 +18,7 @@ requests==2.32.3
 requests-oauthlib==2.0.0
 Pygments==2.18.0
 pygraphviz==1.11
-pyparsing==3.1.2
+pyparsing==3.3.0
 python-coveralls==2.9.3
 snowballstemmer==2.2.0
 thredds-crawler==1.5.4
